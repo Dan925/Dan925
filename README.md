@@ -1,6 +1,6 @@
 ## 👋 Hi there, my name is **Dan**
 
-###  3rd yr Software engineering student at the University of Ottawa.
+###  3rd yr Software engineering student at the University of Ottawa
 
 ##  🧰 Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

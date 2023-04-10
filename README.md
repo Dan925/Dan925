@@ -1,6 +1,6 @@
 ## 👋 Hi there, my name is **Dan**
 
-###  3rd yr Software engineering student at the University of Ottawa
+###  4th yr Software engineering student at the University of Ottawa
 
 
 

@@ -1,7 +1,5 @@
 ## 👋 Hi there, my name is **Dan**
 
-###  4th yr Software engineering student at the University of Ottawa
-
 
 
 ##  🧰 Languages and Tools:
